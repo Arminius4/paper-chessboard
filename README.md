@@ -14,3 +14,7 @@ For the two-coloured board, there is also another file with only two brown edges
 You can get a smaller size by simply printing it smaller (printer setting) or scaling using the GIMP files (.xcf).
 
 If you want different colours open the GIMP files (.xcf), select the wanted colours from the colour palette and use the filling tool (Shift+B) and click on the tiles to colour them. 
+
+## Preview
+
+![preview of the board](https://raw.githubusercontent.com/Arminius4/paper-chessboard/main/PNG/wood_preview.jpg?raw=true)
