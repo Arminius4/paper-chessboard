@@ -3,6 +3,8 @@ A chess board that can be printed on paper. It is optimized for size and product
 
 The field size is 50mm.
 
+There are two versions, one with a luxurious wood texture and a plain two-coloured board that can be easily customized. 
+
 ## Instructions
 
 Print 4 times and cut off the brown border as appropiate (at two adjacent edges each). When printing on A4, there will be a printing margin of approximately the size of the brown border.
